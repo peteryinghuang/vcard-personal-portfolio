@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Ying Huang
+Ying Huang
+Health Informatician
 
 Show Contacts
 
 Email
-richard@example.com
+peteryh@umich.edu
 
 Phone
-+1 (213) 352-2795
++1 (734) 637-6468
 
 Birthday
-June 23, 1982
+July 22, 1983
 
 Location
-Sacramento, California, USA
+Ann Arbor, Michigan, USA
 
 # navbar
 
